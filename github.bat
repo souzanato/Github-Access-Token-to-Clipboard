@@ -1,0 +1,1 @@
+echo|set /p=<access-token-github>|clip
